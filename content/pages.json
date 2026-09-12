@@ -1,0 +1,237 @@
+[
+  {
+    "slug": "about",
+    "title": "About",
+    "purpose": "A complete about experience."
+  },
+  {
+    "slug": "services",
+    "title": "Services",
+    "purpose": "A complete services experience."
+  },
+  {
+    "slug": "solutions",
+    "title": "Solutions",
+    "purpose": "A complete solutions experience."
+  },
+  {
+    "slug": "resources",
+    "title": "Resources",
+    "purpose": "A complete resources experience."
+  },
+  {
+    "slug": "insights",
+    "title": "Insights",
+    "purpose": "A complete insights experience."
+  },
+  {
+    "slug": "faq",
+    "title": "Faq",
+    "purpose": "A complete faq experience."
+  },
+  {
+    "slug": "contact",
+    "title": "Contact",
+    "purpose": "A complete contact experience."
+  },
+  {
+    "slug": "support",
+    "title": "Support",
+    "purpose": "A complete support experience."
+  },
+  {
+    "slug": "trust-center",
+    "title": "Trust Center",
+    "purpose": "A complete trust center experience."
+  },
+  {
+    "slug": "security",
+    "title": "Security",
+    "purpose": "A complete security experience."
+  },
+  {
+    "slug": "privacy",
+    "title": "Privacy",
+    "purpose": "A complete privacy experience."
+  },
+  {
+    "slug": "terms",
+    "title": "Terms",
+    "purpose": "A complete terms experience."
+  },
+  {
+    "slug": "accessibility",
+    "title": "Accessibility",
+    "purpose": "A complete accessibility experience."
+  },
+  {
+    "slug": "sitemap",
+    "title": "Sitemap",
+    "purpose": "A complete sitemap experience."
+  },
+  {
+    "slug": "search",
+    "title": "Search",
+    "purpose": "A complete search experience."
+  },
+  {
+    "slug": "shop",
+    "title": "Shop",
+    "purpose": "A complete shop experience."
+  },
+  {
+    "slug": "collections",
+    "title": "Collections",
+    "purpose": "A complete collections experience."
+  },
+  {
+    "slug": "catalog",
+    "title": "Catalog",
+    "purpose": "A complete catalog experience."
+  },
+  {
+    "slug": "new-arrivals",
+    "title": "New Arrivals",
+    "purpose": "A complete new arrivals experience."
+  },
+  {
+    "slug": "best-sellers",
+    "title": "Best Sellers",
+    "purpose": "A complete best sellers experience."
+  },
+  {
+    "slug": "product-guide",
+    "title": "Product Guide",
+    "purpose": "A complete product guide experience."
+  },
+  {
+    "slug": "wishlist",
+    "title": "Wishlist",
+    "purpose": "A complete wishlist experience."
+  },
+  {
+    "slug": "cart",
+    "title": "Cart",
+    "purpose": "A complete cart experience."
+  },
+  {
+    "slug": "checkout",
+    "title": "Checkout",
+    "purpose": "A complete checkout experience."
+  },
+  {
+    "slug": "shipping",
+    "title": "Shipping",
+    "purpose": "A complete shipping experience."
+  },
+  {
+    "slug": "returns",
+    "title": "Returns",
+    "purpose": "A complete returns experience."
+  },
+  {
+    "slug": "order-tracking",
+    "title": "Order Tracking",
+    "purpose": "A complete order tracking experience."
+  },
+  {
+    "slug": "gift-cards",
+    "title": "Gift Cards",
+    "purpose": "A complete gift cards experience."
+  },
+  {
+    "slug": "account",
+    "title": "Account",
+    "purpose": "A complete account experience."
+  },
+  {
+    "slug": "lookbook",
+    "title": "Lookbook",
+    "purpose": "A complete lookbook experience."
+  },
+  {
+    "slug": "editorial",
+    "title": "Editorial",
+    "purpose": "A complete editorial experience."
+  },
+  {
+    "slug": "store-locator",
+    "title": "Store Locator",
+    "purpose": "A complete store locator experience."
+  },
+  {
+    "slug": "commerce-setup",
+    "title": "Commerce Setup",
+    "purpose": "A complete commerce setup experience."
+  },
+  {
+    "slug": "pricing",
+    "title": "Pricing",
+    "purpose": "A complete pricing experience."
+  },
+  {
+    "slug": "developers",
+    "title": "Developers",
+    "purpose": "A complete developers experience."
+  },
+  {
+    "slug": "documentation",
+    "title": "Documentation",
+    "purpose": "A complete documentation experience."
+  },
+  {
+    "slug": "integrations",
+    "title": "Integrations",
+    "purpose": "A complete integrations experience."
+  },
+  {
+    "slug": "careers",
+    "title": "Careers",
+    "purpose": "A complete careers experience."
+  },
+  {
+    "slug": "guides",
+    "title": "Guides",
+    "purpose": "A complete guides experience."
+  },
+  {
+    "slug": "newsroom",
+    "title": "Newsroom",
+    "purpose": "A complete newsroom experience."
+  },
+  {
+    "slug": "refund-policy",
+    "title": "Refund Policy",
+    "purpose": "A complete refund policy experience."
+  },
+  {
+    "slug": "cookies",
+    "title": "Cookies",
+    "purpose": "A complete cookies experience."
+  },
+  {
+    "slug": "media-credits",
+    "title": "Media Credits",
+    "purpose": "Credits and license metadata for automatically sourced reusable imagery."
+  },
+  {
+    "slug": "brand",
+    "title": "Brand",
+    "purpose": "Brand identity and design system overview."
+  },
+  {
+    "slug": "design-system",
+    "title": "Design System",
+    "purpose": "A complete design system experience."
+  },
+  {
+    "slug": "roadmap",
+    "title": "Roadmap",
+    "purpose": "A complete roadmap experience."
+  },
+  {
+    "slug": "changelog",
+    "title": "Changelog",
+    "purpose": "A complete changelog experience."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "Trackb Prod",
+  "tagline": "Build the World Around the Work.",
+  "description": "An entertainment brand for releases, talent, shows, media, fan discovery, events, and commerce.",
+  "category": "entertainment",
+  "businessModel": "ecommerce",
+  "website": "https://trackb-prod.github.io/",
+  "publicContact": {
+    "email": null,
+    "businessPhone": null,
+    "salesPhone": null,
+    "supportPhone": null,
+    "hours": null
+  }
+}

@@ -1,0 +1,2076 @@
+{
+  "enabled": true,
+  "status": "warnings",
+  "engine": "playwright-core",
+  "browser": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "pages": [
+    {
+      "page": "index.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/index.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 19,
+        "domNodes": 209,
+        "loadMs": 53,
+        "focusables": 48,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-01.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-01.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-02.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-02.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1071,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1070,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1089,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "index.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/index.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 19,
+        "domNodes": 209,
+        "loadMs": 116,
+        "focusables": 48,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-01.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-01.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-02.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-02.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1071,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1070,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1089,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "index.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/index.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 19,
+        "domNodes": 209,
+        "loadMs": 103,
+        "focusables": 48,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-01.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-01.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-02.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-02.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1071,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1070,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1089,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:54693/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "shop.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/shop.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 18,
+        "domNodes": 235,
+        "loadMs": 113,
+        "focusables": 66,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-21.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-21.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-01.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-01.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-02.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-02.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-09.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-09.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-10.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-10.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-11.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-11.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-12.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-12.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "shop.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/shop.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 18,
+        "domNodes": 235,
+        "loadMs": 122,
+        "focusables": 66,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-21.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-21.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-01.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-01.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-02.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-02.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-09.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-09.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-10.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-10.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-11.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-11.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-12.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-12.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "shop.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/shop.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 18,
+        "domNodes": 235,
+        "loadMs": 117,
+        "focusables": 66,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/universal-21.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/universal-21.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-01.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-01.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-02.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-02.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-09.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-09.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-10.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-10.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-11.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-11.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-12.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-12.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "about.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/about.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 137,
+        "loadMs": 90,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "about.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/about.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 137,
+        "loadMs": 89,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "about.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/about.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 137,
+        "loadMs": 90,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "contact.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/contact.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 124,
+        "loadMs": 86,
+        "focusables": 42,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/contact.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/contact.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "contact.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/contact.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 124,
+        "loadMs": 78,
+        "focusables": 42,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/contact.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/contact.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "contact.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/contact.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 124,
+        "loadMs": 89,
+        "focusables": 42,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/contact.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/contact.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "support.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/support.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 164,
+        "loadMs": 89,
+        "focusables": 45,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/support.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/support.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "support.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/support.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 164,
+        "loadMs": 94,
+        "focusables": 45,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/support.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/support.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "support.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/support.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 164,
+        "loadMs": 97,
+        "focusables": 45,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/support.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/support.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "search.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/search.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 79,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/search.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/search.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "search.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/search.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 83,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/search.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/search.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "search.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/search.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 79,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/search.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/search.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "trust-center.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/trust-center.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 140,
+        "loadMs": 79,
+        "focusables": 46,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/trust-center.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/trust-center.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "trust-center.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/trust-center.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 140,
+        "loadMs": 81,
+        "focusables": 46,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/trust-center.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/trust-center.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "trust-center.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/trust-center.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 140,
+        "loadMs": 83,
+        "focusables": 46,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/trust-center.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/trust-center.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "privacy.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/privacy.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 71,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/policy.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/policy.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "privacy.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/privacy.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 73,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/policy.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/policy.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "privacy.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/privacy.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 72,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/policy.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/policy.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "404.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/404.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 102,
+        "loadMs": 75,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/404.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/404.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "404.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/404.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 102,
+        "loadMs": 70,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/404.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/404.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "404.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/404.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 102,
+        "loadMs": 74,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/404.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/404.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "acceptable-use.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/acceptable-use.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 72,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/policy.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/policy.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "acceptable-use.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/acceptable-use.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 75,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/policy.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/policy.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "acceptable-use.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/acceptable-use.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 76,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/policy.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/policy.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "getting-started.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/getting-started.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 132,
+        "loadMs": 84,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/getting-started.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/getting-started.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "getting-started.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/getting-started.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 132,
+        "loadMs": 89,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/getting-started.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/getting-started.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "getting-started.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/getting-started.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 132,
+        "loadMs": 88,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/getting-started.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/getting-started.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "product-03.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:54693/product-03.html",
+      "issues": [
+        "horizontal overflow",
+        "2 unlabeled form controls"
+      ],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 12,
+        "domNodes": 113,
+        "loadMs": 73,
+        "focusables": 29,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-09.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-09.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "product-03.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:54693/product-03.html",
+      "issues": [
+        "2 unlabeled form controls"
+      ],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 12,
+        "domNodes": 113,
+        "loadMs": 74,
+        "focusables": 29,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-09.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-09.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "product-03.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:54693/product-03.html",
+      "issues": [
+        "2 unlabeled form controls"
+      ],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 12,
+        "domNodes": 113,
+        "loadMs": 80,
+        "focusables": 29,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-03.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-03.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-04.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-04.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-05.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-05.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-06.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-07.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-07.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-08.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-08.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/product-09.svg",
+          "currentSrc": "http://127.0.0.1:54693/assets/images/product-09.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    "product-03.html/mobile: horizontal overflow",
+    "product-03.html/mobile: 2 unlabeled form controls",
+    "product-03.html/tablet: 2 unlabeled form controls",
+    "product-03.html/desktop: 2 unlabeled form controls"
+  ],
+  "warnings": [],
+  "screenshots": [
+    "index-mobile.png",
+    "index-tablet.png",
+    "index-desktop.png",
+    "shop-mobile.png",
+    "shop-tablet.png",
+    "shop-desktop.png",
+    "about-mobile.png",
+    "about-tablet.png",
+    "about-desktop.png",
+    "contact-mobile.png",
+    "contact-tablet.png",
+    "contact-desktop.png",
+    "support-mobile.png",
+    "support-tablet.png",
+    "support-desktop.png",
+    "search-mobile.png",
+    "search-tablet.png",
+    "search-desktop.png",
+    "trust-center-mobile.png",
+    "trust-center-tablet.png",
+    "trust-center-desktop.png",
+    "privacy-mobile.png",
+    "privacy-tablet.png",
+    "privacy-desktop.png",
+    "404-mobile.png",
+    "404-tablet.png",
+    "404-desktop.png",
+    "acceptable-use-mobile.png",
+    "acceptable-use-tablet.png",
+    "acceptable-use-desktop.png",
+    "getting-started-mobile.png",
+    "getting-started-tablet.png",
+    "getting-started-desktop.png",
+    "product-03-mobile.png",
+    "product-03-tablet.png",
+    "product-03-desktop.png"
+  ]
+}

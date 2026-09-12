@@ -1,0 +1,23 @@
+{
+  "traits": [
+    "visual",
+    "confident",
+    "specific",
+    "sensory"
+  ],
+  "sentenceStyle": "varied, readable, active",
+  "avoid": [
+    "unsupported superlatives",
+    "fake clients",
+    "invented certifications",
+    "unverified performance claims",
+    "login-account contact data"
+  ],
+  "preferred": [
+    "clarity",
+    "experience",
+    "system",
+    "value",
+    "next step"
+  ]
+}

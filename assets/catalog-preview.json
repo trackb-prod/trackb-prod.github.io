@@ -1,0 +1,98 @@
+[
+  {
+    "id": "demo-1",
+    "name": "Product concept 01",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-01.svg"
+  },
+  {
+    "id": "demo-2",
+    "name": "Product concept 02",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-02.svg"
+  },
+  {
+    "id": "demo-3",
+    "name": "Product concept 03",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-03.svg"
+  },
+  {
+    "id": "demo-4",
+    "name": "Product concept 04",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-04.svg"
+  },
+  {
+    "id": "demo-5",
+    "name": "Product concept 05",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-05.svg"
+  },
+  {
+    "id": "demo-6",
+    "name": "Product concept 06",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-06.svg"
+  },
+  {
+    "id": "demo-7",
+    "name": "Product concept 07",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-07.svg"
+  },
+  {
+    "id": "demo-8",
+    "name": "Product concept 08",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-08.svg"
+  },
+  {
+    "id": "demo-9",
+    "name": "Product concept 09",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-09.svg"
+  },
+  {
+    "id": "demo-10",
+    "name": "Product concept 10",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-10.svg"
+  },
+  {
+    "id": "demo-11",
+    "name": "Product concept 11",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-11.svg"
+  },
+  {
+    "id": "demo-12",
+    "name": "Product concept 12",
+    "demo": true,
+    "price": null,
+    "inventory": null,
+    "image": "assets/images/product-12.svg"
+  }
+]

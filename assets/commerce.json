@@ -1,0 +1,22 @@
+{
+  "mode": "scaffold",
+  "liveCheckout": false,
+  "catalogConnected": false,
+  "policy": "BrandForge never invents live inventory, real prices, stock, discounts, shipping promises, taxes, or payment credentials.",
+  "adapters": [
+    "Shopify Storefront API",
+    "Stripe Payment Links / Checkout",
+    "WooCommerce REST API",
+    "Custom commerce backend"
+  ],
+  "requiredForLive": [
+    "verified catalog",
+    "real prices",
+    "inventory source",
+    "shipping policy",
+    "returns policy",
+    "tax configuration",
+    "payment provider",
+    "business contact"
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trackb-prod.github.io/sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "note": "Reserved fictional placeholders generated for design/testing only. Do not publish as real contact channels.",
+  "phone": "+1 202-555-0175",
+  "supportEmail": "support@trackb-prod.example",
+  "salesEmail": "sales@trackb-prod.example",
+  "helloEmail": "hello@trackb-prod.example",
+  "reserved": true,
+  "publishable": false
+}

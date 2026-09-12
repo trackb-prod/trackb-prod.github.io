@@ -1,0 +1,330 @@
+{
+  "demo": true,
+  "items": [
+    {
+      "id": "demo-01",
+      "name": "Catalog Preview 01",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-01.html",
+      "image": "assets/images/product-01.svg"
+    },
+    {
+      "id": "demo-02",
+      "name": "Catalog Preview 02",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-02.html",
+      "image": "assets/images/product-02.svg"
+    },
+    {
+      "id": "demo-03",
+      "name": "Catalog Preview 03",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-03.html",
+      "image": "assets/images/product-03.svg"
+    },
+    {
+      "id": "demo-04",
+      "name": "Catalog Preview 04",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-04.html",
+      "image": "assets/images/product-04.svg"
+    },
+    {
+      "id": "demo-05",
+      "name": "Catalog Preview 05",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-05.html",
+      "image": "assets/images/product-05.svg"
+    },
+    {
+      "id": "demo-06",
+      "name": "Catalog Preview 06",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-06.html",
+      "image": "assets/images/product-06.svg"
+    },
+    {
+      "id": "demo-07",
+      "name": "Catalog Preview 07",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-07.html",
+      "image": "assets/images/product-07.svg"
+    },
+    {
+      "id": "demo-08",
+      "name": "Catalog Preview 08",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-08.html",
+      "image": "assets/images/product-08.svg"
+    },
+    {
+      "id": "demo-09",
+      "name": "Catalog Preview 09",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-09.html",
+      "image": "assets/images/product-09.svg"
+    },
+    {
+      "id": "demo-10",
+      "name": "Catalog Preview 10",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-10.html",
+      "image": "assets/images/product-10.svg"
+    },
+    {
+      "id": "demo-11",
+      "name": "Catalog Preview 11",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-11.html",
+      "image": "assets/images/product-11.svg"
+    },
+    {
+      "id": "demo-12",
+      "name": "Catalog Preview 12",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-12.html",
+      "image": "assets/images/product-12.svg"
+    },
+    {
+      "id": "demo-13",
+      "name": "Catalog Preview 13",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-13.html",
+      "image": "assets/images/product-13.svg"
+    },
+    {
+      "id": "demo-14",
+      "name": "Catalog Preview 14",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-14.html",
+      "image": "assets/images/product-14.svg"
+    },
+    {
+      "id": "demo-15",
+      "name": "Catalog Preview 15",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-15.html",
+      "image": "assets/images/product-15.svg"
+    },
+    {
+      "id": "demo-16",
+      "name": "Catalog Preview 16",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-16.html",
+      "image": "assets/images/product-16.svg"
+    },
+    {
+      "id": "demo-17",
+      "name": "Catalog Preview 17",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-17.html",
+      "image": "assets/images/product-17.svg"
+    },
+    {
+      "id": "demo-18",
+      "name": "Catalog Preview 18",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-18.html",
+      "image": "assets/images/product-18.svg"
+    },
+    {
+      "id": "demo-19",
+      "name": "Catalog Preview 19",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-19.html",
+      "image": "assets/images/product-01.svg"
+    },
+    {
+      "id": "demo-20",
+      "name": "Catalog Preview 20",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-20.html",
+      "image": "assets/images/product-02.svg"
+    },
+    {
+      "id": "demo-21",
+      "name": "Catalog Preview 21",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-21.html",
+      "image": "assets/images/product-03.svg"
+    },
+    {
+      "id": "demo-22",
+      "name": "Catalog Preview 22",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-22.html",
+      "image": "assets/images/product-04.svg"
+    },
+    {
+      "id": "demo-23",
+      "name": "Catalog Preview 23",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-23.html",
+      "image": "assets/images/product-05.svg"
+    },
+    {
+      "id": "demo-24",
+      "name": "Catalog Preview 24",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-24.html",
+      "image": "assets/images/product-06.svg"
+    },
+    {
+      "id": "demo-25",
+      "name": "Catalog Preview 25",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-25.html",
+      "image": "assets/images/product-07.svg"
+    },
+    {
+      "id": "demo-26",
+      "name": "Catalog Preview 26",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-26.html",
+      "image": "assets/images/product-08.svg"
+    },
+    {
+      "id": "demo-27",
+      "name": "Catalog Preview 27",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-27.html",
+      "image": "assets/images/product-09.svg"
+    },
+    {
+      "id": "demo-28",
+      "name": "Catalog Preview 28",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-28.html",
+      "image": "assets/images/product-10.svg"
+    },
+    {
+      "id": "demo-29",
+      "name": "Catalog Preview 29",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-29.html",
+      "image": "assets/images/product-11.svg"
+    },
+    {
+      "id": "demo-30",
+      "name": "Catalog Preview 30",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-30.html",
+      "image": "assets/images/product-12.svg"
+    },
+    {
+      "id": "demo-31",
+      "name": "Catalog Preview 31",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-31.html",
+      "image": "assets/images/product-13.svg"
+    },
+    {
+      "id": "demo-32",
+      "name": "Catalog Preview 32",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-32.html",
+      "image": "assets/images/product-14.svg"
+    },
+    {
+      "id": "demo-33",
+      "name": "Catalog Preview 33",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-33.html",
+      "image": "assets/images/product-15.svg"
+    },
+    {
+      "id": "demo-34",
+      "name": "Catalog Preview 34",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-34.html",
+      "image": "assets/images/product-16.svg"
+    },
+    {
+      "id": "demo-35",
+      "name": "Catalog Preview 35",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-35.html",
+      "image": "assets/images/product-17.svg"
+    },
+    {
+      "id": "demo-36",
+      "name": "Catalog Preview 36",
+      "demo": true,
+      "price": null,
+      "inventory": null,
+      "path": "product-36.html",
+      "image": "assets/images/product-18.svg"
+    }
+  ],
+  "note": "Replace with verified catalog data before live selling."
+}

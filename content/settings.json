@@ -1,0 +1,23 @@
+{
+  "brand": "Trackb Prod",
+  "businessModel": "ecommerce",
+  "interactions": [
+    "sticky-cta",
+    "scroll-reveal",
+    "interactive-map",
+    "accordion",
+    "lightbox",
+    "quick-view",
+    "carousel",
+    "command-palette"
+  ],
+  "schemas": [
+    "Organization",
+    "WebSite",
+    "Product",
+    "Offer",
+    "BreadcrumbList",
+    "FAQPage"
+  ],
+  "generatedAt": "2026-09-12T22:01:48.984Z"
+}

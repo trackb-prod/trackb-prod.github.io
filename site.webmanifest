@@ -1,0 +1,16 @@
+{
+  "name": "Trackb Prod",
+  "short_name": "Trackb Prod",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050708",
+  "theme_color": "#050708",
+  "icons": [
+    {
+      "src": "assets/profile-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

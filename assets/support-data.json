@@ -1,0 +1,15 @@
+{
+  "brand": "Trackb Prod",
+  "email": null,
+  "phone": null,
+  "salesPhone": null,
+  "businessPhone": null,
+  "accountEmailPublished": false,
+  "hours": null,
+  "supportCenter": "https://trackb-prod.github.io/support.html",
+  "supportRequest": "https://trackb-prod.github.io/support-request.html",
+  "helpCenter": "https://trackb-prod.github.io/help-center.html",
+  "status": "https://trackb-prod.github.io/status.html",
+  "trustCenter": "https://trackb-prod.github.io/trust-center.html",
+  "github": "https://github.com/trackb-prod"
+}

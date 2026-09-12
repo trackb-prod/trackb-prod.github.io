@@ -1,0 +1,361 @@
+{
+  "version": 16,
+  "model": "ecommerce",
+  "siteKind": "ecommerce",
+  "sitePlan": [
+    {
+      "slug": "about",
+      "title": "About",
+      "purpose": "A complete about experience."
+    },
+    {
+      "slug": "services",
+      "title": "Services",
+      "purpose": "A complete services experience."
+    },
+    {
+      "slug": "solutions",
+      "title": "Solutions",
+      "purpose": "A complete solutions experience."
+    },
+    {
+      "slug": "resources",
+      "title": "Resources",
+      "purpose": "A complete resources experience."
+    },
+    {
+      "slug": "insights",
+      "title": "Insights",
+      "purpose": "A complete insights experience."
+    },
+    {
+      "slug": "faq",
+      "title": "Faq",
+      "purpose": "A complete faq experience."
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "purpose": "A complete contact experience."
+    },
+    {
+      "slug": "support",
+      "title": "Support",
+      "purpose": "A complete support experience."
+    },
+    {
+      "slug": "trust-center",
+      "title": "Trust Center",
+      "purpose": "A complete trust center experience."
+    },
+    {
+      "slug": "security",
+      "title": "Security",
+      "purpose": "A complete security experience."
+    },
+    {
+      "slug": "privacy",
+      "title": "Privacy",
+      "purpose": "A complete privacy experience."
+    },
+    {
+      "slug": "terms",
+      "title": "Terms",
+      "purpose": "A complete terms experience."
+    },
+    {
+      "slug": "accessibility",
+      "title": "Accessibility",
+      "purpose": "A complete accessibility experience."
+    },
+    {
+      "slug": "sitemap",
+      "title": "Sitemap",
+      "purpose": "A complete sitemap experience."
+    },
+    {
+      "slug": "search",
+      "title": "Search",
+      "purpose": "A complete search experience."
+    },
+    {
+      "slug": "shop",
+      "title": "Shop",
+      "purpose": "A complete shop experience."
+    },
+    {
+      "slug": "collections",
+      "title": "Collections",
+      "purpose": "A complete collections experience."
+    },
+    {
+      "slug": "catalog",
+      "title": "Catalog",
+      "purpose": "A complete catalog experience."
+    },
+    {
+      "slug": "new-arrivals",
+      "title": "New Arrivals",
+      "purpose": "A complete new arrivals experience."
+    },
+    {
+      "slug": "best-sellers",
+      "title": "Best Sellers",
+      "purpose": "A complete best sellers experience."
+    },
+    {
+      "slug": "product-guide",
+      "title": "Product Guide",
+      "purpose": "A complete product guide experience."
+    },
+    {
+      "slug": "wishlist",
+      "title": "Wishlist",
+      "purpose": "A complete wishlist experience."
+    },
+    {
+      "slug": "cart",
+      "title": "Cart",
+      "purpose": "A complete cart experience."
+    },
+    {
+      "slug": "checkout",
+      "title": "Checkout",
+      "purpose": "A complete checkout experience."
+    },
+    {
+      "slug": "shipping",
+      "title": "Shipping",
+      "purpose": "A complete shipping experience."
+    },
+    {
+      "slug": "returns",
+      "title": "Returns",
+      "purpose": "A complete returns experience."
+    },
+    {
+      "slug": "order-tracking",
+      "title": "Order Tracking",
+      "purpose": "A complete order tracking experience."
+    },
+    {
+      "slug": "gift-cards",
+      "title": "Gift Cards",
+      "purpose": "A complete gift cards experience."
+    },
+    {
+      "slug": "account",
+      "title": "Account",
+      "purpose": "A complete account experience."
+    },
+    {
+      "slug": "lookbook",
+      "title": "Lookbook",
+      "purpose": "A complete lookbook experience."
+    },
+    {
+      "slug": "editorial",
+      "title": "Editorial",
+      "purpose": "A complete editorial experience."
+    },
+    {
+      "slug": "store-locator",
+      "title": "Store Locator",
+      "purpose": "A complete store locator experience."
+    },
+    {
+      "slug": "commerce-setup",
+      "title": "Commerce Setup",
+      "purpose": "A complete commerce setup experience."
+    },
+    {
+      "slug": "pricing",
+      "title": "Pricing",
+      "purpose": "A complete pricing experience."
+    },
+    {
+      "slug": "developers",
+      "title": "Developers",
+      "purpose": "A complete developers experience."
+    },
+    {
+      "slug": "documentation",
+      "title": "Documentation",
+      "purpose": "A complete documentation experience."
+    },
+    {
+      "slug": "integrations",
+      "title": "Integrations",
+      "purpose": "A complete integrations experience."
+    },
+    {
+      "slug": "careers",
+      "title": "Careers",
+      "purpose": "A complete careers experience."
+    },
+    {
+      "slug": "guides",
+      "title": "Guides",
+      "purpose": "A complete guides experience."
+    },
+    {
+      "slug": "newsroom",
+      "title": "Newsroom",
+      "purpose": "A complete newsroom experience."
+    },
+    {
+      "slug": "refund-policy",
+      "title": "Refund Policy",
+      "purpose": "A complete refund policy experience."
+    },
+    {
+      "slug": "cookies",
+      "title": "Cookies",
+      "purpose": "A complete cookies experience."
+    },
+    {
+      "slug": "media-credits",
+      "title": "Media Credits",
+      "purpose": "Credits and license metadata for automatically sourced reusable imagery."
+    },
+    {
+      "slug": "brand",
+      "title": "Brand",
+      "purpose": "Brand identity and design system overview."
+    },
+    {
+      "slug": "design-system",
+      "title": "Design System",
+      "purpose": "A complete design system experience."
+    },
+    {
+      "slug": "roadmap",
+      "title": "Roadmap",
+      "purpose": "A complete roadmap experience."
+    },
+    {
+      "slug": "changelog",
+      "title": "Changelog",
+      "purpose": "A complete changelog experience."
+    }
+  ],
+  "voice": {
+    "traits": [
+      "visual",
+      "confident",
+      "specific",
+      "sensory"
+    ],
+    "sentenceStyle": "varied, readable, active",
+    "avoid": [
+      "unsupported superlatives",
+      "fake clients",
+      "invented certifications",
+      "unverified performance claims",
+      "login-account contact data"
+    ],
+    "preferred": [
+      "clarity",
+      "experience",
+      "system",
+      "value",
+      "next step"
+    ]
+  },
+  "interactions": [
+    "sticky-cta",
+    "scroll-reveal",
+    "interactive-map",
+    "accordion",
+    "lightbox",
+    "quick-view",
+    "carousel",
+    "command-palette"
+  ],
+  "mediaQueries": [
+    "An entertainment brand for releases, talent, shows, media, fan discovery, events, and commerce. entertainment",
+    "product photography",
+    "retail display",
+    "lifestyle product"
+  ],
+  "schemaTypes": [
+    "Organization",
+    "WebSite",
+    "Product",
+    "Offer",
+    "BreadcrumbList",
+    "FAQPage"
+  ],
+  "referencePatterns": {
+    "pricing": 3,
+    "docs": 4,
+    "commerce": 4,
+    "booking": 4,
+    "trust": 5,
+    "support": 4,
+    "resources": 4,
+    "contact": 3,
+    "integrations": 3,
+    "careers": 3
+  },
+  "seoKeywords": [
+    "entertainment",
+    "websites",
+    "design",
+    "website",
+    "web",
+    "examples",
+    "media",
+    "see",
+    "free",
+    "campaign",
+    "best",
+    "influencer",
+    "music",
+    "blog",
+    "industry",
+    "work",
+    "platform",
+    "let"
+  ],
+  "researchSources": [
+    {
+      "url": "https://99designs.com/inspiration/websites/entertainment",
+      "domain": "99designs.com",
+      "title": "Entertainment websites - 56+ Best Entertainment Web Design Ideas 2026 | 99designs",
+      "error": null
+    },
+    {
+      "url": "https://halopowered.com/industries/media-ent",
+      "domain": "halopowered.com",
+      "title": "Media & Entertainment Industry Websites, Strategy & AI Solutions | Halo Media",
+      "error": null
+    },
+    {
+      "url": "https://www.edelman.com/expertise/branded-entertainment",
+      "domain": "www.edelman.com",
+      "title": "Branded Entertainment & Talent Agency | Edelman",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://blog.hubspot.com/website/entertainment-website-examples",
+      "domain": "blog.hubspot.com",
+      "title": "20 Entertainment Website Design Examples We Love",
+      "error": null
+    },
+    {
+      "url": "https://muffingroup.com/blog/entertainment-website-design/",
+      "domain": "muffingroup.com",
+      "title": "Top Entertainment Website Design Examples",
+      "error": null
+    },
+    {
+      "url": "https://neoreach.com/industries/entertainment/",
+      "domain": "neoreach.com",
+      "title": "Entertainment Influencer Marketing Agency | NeoReach",
+      "error": null
+    }
+  ],
+  "pageTarget": 47,
+  "createdAt": "2026-09-12T22:01:48.931Z"
+}

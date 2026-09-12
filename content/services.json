@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Releases",
+    "slug": "releases",
+    "index": "01",
+    "summary": "Releases is treated as part of the complete Trackb Prod experience — designed to connect the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Shows",
+    "slug": "shows",
+    "index": "02",
+    "summary": "Shows is treated as part of the complete Trackb Prod experience — designed to connect the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Media",
+    "slug": "media",
+    "index": "03",
+    "summary": "Media is treated as part of the complete Trackb Prod experience — designed to connect the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Community",
+    "slug": "community",
+    "index": "04",
+    "summary": "Community is treated as part of the complete Trackb Prod experience — designed to clarify the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Store",
+    "slug": "store",
+    "index": "05",
+    "summary": "Store is treated as part of the complete Trackb Prod experience — designed to shape the system while keeping the experience clear, useful, and maintainable."
+  }
+]

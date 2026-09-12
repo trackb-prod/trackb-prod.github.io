@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Trackb Prod social preview">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050708"/><stop offset="1" stop-color="#0e1518"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/><circle cx="1030" cy="90" r="310" fill="#9cff00" opacity=".16"/><circle cx="1040" cy="560" r="220" fill="#00d9ff" opacity=".12"/>
+<rect x="80" y="78" width="58" height="58" rx="14" fill="#9cff00"/><text x="109" y="118" text-anchor="middle" font-family="Arial" font-size="22" font-weight="900" fill="#050708">TP</text>
+<text x="80" y="300" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="88" fill="#f8fbff">Trackb Prod</text>
+<text x="84" y="378" font-family="Arial, Helvetica, sans-serif" font-size="35" fill="#9cff00">Build the World Around the Work.</text>
+<text x="84" y="530" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4" fill="#8c98a3">ENTERTAINMENT &amp; CULTURE</text>
+</svg>

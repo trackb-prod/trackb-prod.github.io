@@ -1,0 +1,12 @@
+{
+  "engine": "BrandForge Autopilot V16.5 Autonomous Web Studio",
+  "modular": true,
+  "fixedTemplate": false,
+  "category": "entertainment",
+  "commerceReady": true,
+  "mediaSystem": "local generated SVG + PNG brand assets",
+  "privacy": {
+    "connectedAccountEmailPublished": false,
+    "secretsAllowedInPublicOutput": false
+  }
+}

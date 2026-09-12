@@ -1,0 +1,57 @@
+{
+  "name": "Trackb Prod",
+  "category": "Entertainment & Culture",
+  "tagline": "Build the World Around the Work.",
+  "description": "An entertainment brand for releases, talent, shows, media, fan discovery, events, and commerce.",
+  "colors": [
+    "#050708",
+    "#f8fbff",
+    "#9cff00",
+    "#00d9ff",
+    "#8c98a3",
+    "#0e1518"
+  ],
+  "capabilities": [
+    "Releases",
+    "Shows",
+    "Media",
+    "Community",
+    "Store"
+  ],
+  "support": {
+    "email": null,
+    "phone": null,
+    "salesPhone": null,
+    "businessPhone": null,
+    "hours": null,
+    "center": "https://trackb-prod.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": false,
+  "creativeProfile": {
+    "id": "kinetic-signal",
+    "hero": "kinetic",
+    "density": "dynamic",
+    "accent": "motion",
+    "order": [
+      "story",
+      "products",
+      "developers",
+      "support"
+    ]
+  },
+  "contactMode": "demo-reserved",
+  "commerceReady": true,
+  "designDna": {
+    "hero": "editorial-poster",
+    "nav": "editorial-index",
+    "cards": "borderless",
+    "grid": "rail",
+    "type": "editorial",
+    "motion": "reveal",
+    "media": "architectural"
+  },
+  "generatedBy": "BrandForge Autopilot V16.5 Autonomous Web Studio"
+}

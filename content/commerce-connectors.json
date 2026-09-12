@@ -1,0 +1,13 @@
+{
+  "supported": [
+    "Shopify Storefront API",
+    "WooCommerce REST API",
+    "Stripe Checkout / Payment Links",
+    "Square",
+    "BigCommerce",
+    "Snipcart",
+    "Custom backend"
+  ],
+  "active": null,
+  "safety": "Static GitHub Pages must never collect raw card data."
+}

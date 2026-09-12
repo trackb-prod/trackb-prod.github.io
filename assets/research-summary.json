@@ -1,0 +1,188 @@
+{
+  "enabled": true,
+  "status": "researched",
+  "startedAt": "2026-09-12T22:01:45.878Z",
+  "finishedAt": "2026-09-12T22:01:48.929Z",
+  "query": "entertainment An entertainment brand for releases, talent, shows, media, fan discovery, events, and commerce. best company website",
+  "sources": [
+    {
+      "url": "https://99designs.com/inspiration/websites/entertainment",
+      "domain": "99designs.com",
+      "title": "Entertainment websites - 56+ Best Entertainment Web Design Ideas 2026 | 99designs",
+      "error": null
+    },
+    {
+      "url": "https://halopowered.com/industries/media-ent",
+      "domain": "halopowered.com",
+      "title": "Media & Entertainment Industry Websites, Strategy & AI Solutions | Halo Media",
+      "error": null
+    },
+    {
+      "url": "https://www.edelman.com/expertise/branded-entertainment",
+      "domain": "www.edelman.com",
+      "title": "Branded Entertainment & Talent Agency | Edelman",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://blog.hubspot.com/website/entertainment-website-examples",
+      "domain": "blog.hubspot.com",
+      "title": "20 Entertainment Website Design Examples We Love",
+      "error": null
+    },
+    {
+      "url": "https://muffingroup.com/blog/entertainment-website-design/",
+      "domain": "muffingroup.com",
+      "title": "Top Entertainment Website Design Examples",
+      "error": null
+    },
+    {
+      "url": "https://neoreach.com/industries/entertainment/",
+      "domain": "neoreach.com",
+      "title": "Entertainment Influencer Marketing Agency | NeoReach",
+      "error": null
+    }
+  ],
+  "patterns": {
+    "pricing": 3,
+    "docs": 4,
+    "commerce": 4,
+    "booking": 4,
+    "trust": 5,
+    "support": 4,
+    "resources": 4,
+    "contact": 3,
+    "integrations": 3,
+    "careers": 3
+  },
+  "keywords": [
+    {
+      "word": "entertainment",
+      "count": 39
+    },
+    {
+      "word": "websites",
+      "count": 31
+    },
+    {
+      "word": "design",
+      "count": 26
+    },
+    {
+      "word": "website",
+      "count": 21
+    },
+    {
+      "word": "web",
+      "count": 12
+    },
+    {
+      "word": "examples",
+      "count": 8
+    },
+    {
+      "word": "media",
+      "count": 8
+    },
+    {
+      "word": "see",
+      "count": 8
+    },
+    {
+      "word": "free",
+      "count": 7
+    },
+    {
+      "word": "campaign",
+      "count": 7
+    },
+    {
+      "word": "best",
+      "count": 6
+    },
+    {
+      "word": "influencer",
+      "count": 5
+    },
+    {
+      "word": "music",
+      "count": 4
+    },
+    {
+      "word": "blog",
+      "count": 4
+    },
+    {
+      "word": "industry",
+      "count": 4
+    },
+    {
+      "word": "work",
+      "count": 4
+    },
+    {
+      "word": "platform",
+      "count": 4
+    },
+    {
+      "word": "let",
+      "count": 4
+    },
+    {
+      "word": "chat",
+      "count": 4
+    },
+    {
+      "word": "industries",
+      "count": 4
+    },
+    {
+      "word": "agency",
+      "count": 4
+    },
+    {
+      "word": "betheme",
+      "count": 4
+    },
+    {
+      "word": "marketing",
+      "count": 4
+    },
+    {
+      "word": "neoreach",
+      "count": 4
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "designs",
+      "count": 3
+    },
+    {
+      "word": "page",
+      "count": 3
+    },
+    {
+      "word": "art",
+      "count": 3
+    },
+    {
+      "word": "build",
+      "count": 3
+    },
+    {
+      "word": "artist-first",
+      "count": 3
+    },
+    {
+      "word": "redesign",
+      "count": 3
+    },
+    {
+      "word": "interactive",
+      "count": 3
+    }
+  ],
+  "notes": "Reference research extracts high-level information architecture and market patterns only. BrandForge does not copy source HTML, CSS, brand assets, photography, or long-form text."
+}

@@ -1,0 +1,9 @@
+{
+  "hero": "editorial-poster",
+  "nav": "editorial-index",
+  "cards": "borderless",
+  "grid": "rail",
+  "type": "editorial",
+  "motion": "reveal",
+  "media": "architectural"
+}

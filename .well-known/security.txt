@@ -1,0 +1,4 @@
+# Trackb Prod security contact
+# Replace or extend this file when an official security reporting channel exists.
+Canonical: https://trackb-prod.github.io/.well-known/security.txt
+Expires: 2027-12-31T23:59:59Z
