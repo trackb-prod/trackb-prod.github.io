@@ -8,6 +8,7 @@
   "paths": [
     ".brandforge-manifest.json",
     ".github/dependabot.yml",
+    ".github/workflows/quality.yml",
     ".nojekyll",
     ".well-known/security.txt",
     "404.html",
